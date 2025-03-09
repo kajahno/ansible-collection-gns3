@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/python
 
 ANSIBLE_METADATA = {
     "metadata_version": "1.3",
